@@ -1,0 +1,4 @@
+there was error at Http404
+my detail.html file was nto in the same folder as templates, and getting it correct the issue resolved
+
+why tho?
